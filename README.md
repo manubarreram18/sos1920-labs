@@ -1,2 +1,2 @@
 # sos1920-labs
-Esta es el repositorio de los laboratorios SOS1920
+Esta es el repositorio del laboratorio 4 
