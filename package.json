@@ -4,7 +4,7 @@
   "description": "this is the result of lab04",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
